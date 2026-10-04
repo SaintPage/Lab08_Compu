@@ -1,0 +1,8 @@
+         1 function calls in 0.309 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.309    0.309    0.309    0.309 /home/claude/lab8/problema2.py:15(funcion)
+
+

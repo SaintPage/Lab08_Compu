@@ -1,0 +1,18 @@
+Busqueda lineal (comparaciones)
+       n |  mejor | promedio medido |  (n+1)/2 |   peor
+      10 |      1 |            5.50 |     5.50 |     10
+     100 |      1 |           50.50 |    50.50 |    100
+    1000 |      1 |          500.50 |   500.50 |   1000
+
+Busqueda binaria (comparaciones)
+       n |  mejor | promedio medido |  formula |   peor | piso(log2 n)+1
+      15 |      1 |           3.267 |    3.267 |      4 |              4
+     127 |      1 |           6.055 |    6.055 |      7 |              7
+    1023 |      1 |           9.010 |    9.010 |     10 |             10
+   16383 |      1 |          13.001 |   13.001 |     14 |             14
+
+Quicksort, pivote = ultimo elemento (comparaciones)
+       n | mejor (recurrencia) | promedio medido | 2(n+1)H_n-4n | peor medido |  n(n-1)/2
+      10 |                  19 |            24.4 |         24.4 |          45 |        45
+     100 |                 480 |           649.0 |        647.9 |        4950 |      4950
+    1000 |                7987 |         11029.1 |      10985.9 |      499500 |    499500
