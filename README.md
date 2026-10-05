@@ -2,7 +2,7 @@ Laboratorio 8 - Teoría de la Computación
 
 Ángel Mérida - 23661
 
-Video: []
+Video: [https://youtu.be/25fEHStRg-g]
 
 
 Contenido
@@ -14,15 +14,7 @@ Contenido
 - `verificar.py`: comprueba que las fórmulas del análisis coinciden con lo que hacen los programas.
 - `main.py`: corre todo lo anterior.
 - `resultados/`: tablas (.csv y .md), gráficas (.png) y reportes de cProfile.
-
-
-
-Requisitos
-
-Python 3.10 o superior.
-
-    pip install -r requirements.txt
-
+- `procedimiento/Laboratorio 8.pdf`: Procedimiento de los incisos.
 
 Ejecución
 

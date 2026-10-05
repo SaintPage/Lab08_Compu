@@ -1,4 +1,0 @@
-matplotlib>=3.5
-numpy>=1.21
-reportlab>=3.6
-python-docx>=1.1
